@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/TR/2002/REC-xmldsig-core-20020212/xmldsig-core-schema.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/e87deeab_xmldsig-core-schema.xsd" />
+    <resource url="http://www.w3.org/TR/2002/REC-xmlenc-core-20021210/xenc-schema.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/2e61058b_xenc-schema.xsd" />
+  </component>
+</application>

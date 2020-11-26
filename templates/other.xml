@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="ifnotempty" value="if ($VAR$ == null || $VAR$.isEmpty()) {&#10;    $END$&#10;}" description="Insert 'if not null and is not empty' statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;String&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
