@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="AbstractNotierTool" type="CLASS" />
       <mapping pattern="finto" type="PLAIN_TEXT" />
+      <mapping ext="datasource" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
