@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\docs\src\main\webapp\peppol-bis-3-ENG\guides\profiles\28-ordering\main.adoc [NoTI-ER-PEPPOL-Docs]'" />
-    <option name="defaultScopeName" value="File '...\docs\src\main\webapp\peppol-bis-3-ENG\guides\profiles\28-ordering\main.adoc [NoTI-ER-PEPPOL-Docs]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\docs\src\main\webapp\peppol-bis-3-ENG\guides\profiles\28-ordering\main.adoc [NoTI-ER-PEPPOL-Docs]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*java</mask>
