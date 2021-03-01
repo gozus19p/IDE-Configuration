@@ -16,9 +16,10 @@
     <mask>*.properties</mask>
     <mask>*sch</mask>
     <mask>*html</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*pom.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.adoc</mask>
   </component>
 </application>
