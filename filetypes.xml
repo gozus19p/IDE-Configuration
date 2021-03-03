@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="caso" type="AUTO_DETECTED" />
+      <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="AbstractNotierTool" type="CLASS" />
       <mapping pattern="finto" type="PLAIN_TEXT" />
       <mapping ext="datasource" type="PLAIN_TEXT" />
