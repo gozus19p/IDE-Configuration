@@ -18,8 +18,8 @@
     <mask>*html</mask>
     <mask>*.adoc</mask>
     <mask>*.java</mask>
-    <mask>*.jsp</mask>
     <mask>*pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
