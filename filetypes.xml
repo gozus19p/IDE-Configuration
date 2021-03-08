@@ -5,6 +5,7 @@
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="AbstractNotierTool" type="CLASS" />
       <mapping pattern="finto" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="p7m" type="PLAIN_TEXT" />
       <mapping ext="datasource" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
